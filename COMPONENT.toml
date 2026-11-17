@@ -3,7 +3,7 @@ name = "SigmaOS-kerberos"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kerberos component"
+description = "Kerberos"
 upstream = []
 
 [contract]
